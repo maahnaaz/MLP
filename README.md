@@ -9,17 +9,11 @@ Error function = sum(y - h(x))^2 / # inputs which y is desired output and h(x) i
 A user can change the number of hidden layers, the number of neurons in each hidden layer, and the transfer functions (Logistic Function, Tanh, Identity) in each layer. The output of the program is a learning curve and a .txt file that includes the global error of every epoch.
 
 Learning curve for dataset 1:
-
 ![alt text](https://github.com/maahnaaz/MLP/blob/main/1.png)
-
 Learning curve for dataset 2:
-
-Learning curve for dataset 1:
-
+![alt text](https://github.com/maahnaaz/MLP/blob/main/2.png)
 Learning curve for dataset 3:
-
-Learning curve for dataset 1:
-
+![alt text](https://github.com/maahnaaz/MLP/blob/main/3.png)
 Learning curve for dataset 4:
+![alt text](https://github.com/maahnaaz/MLP/blob/main/4.png)
 
-Learning curve for dataset 1:
