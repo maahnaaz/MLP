@@ -10,7 +10,7 @@ A user can change the number of hidden layers, the number of neurons in each hid
 
 Learning curve for dataset 1:
 
-
+![alt text](https://github.com/maahnaaz/MLP/blob/main/1.png)
 
 Learning curve for dataset 2:
 
